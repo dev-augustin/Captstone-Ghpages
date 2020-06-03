@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "dd129398e65dc6a1af958fb2848fd123",
+    "revision": "f8badf9f9f46dd24a00e735465a83bd9",
     "url": "/Captstone-Ghpages/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Captstone-Ghpages/static/css/2.af3c1da9.chunk.css"
   },
   {
-    "revision": "0e4d5b7cabea1016d20e",
+    "revision": "5b66a8130306324b5a2b",
     "url": "/Captstone-Ghpages/static/css/main.048a49c6.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Captstone-Ghpages/static/js/2.a31a58df.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0e4d5b7cabea1016d20e",
-    "url": "/Captstone-Ghpages/static/js/main.1cf5c1e0.chunk.js"
+    "revision": "5b66a8130306324b5a2b",
+    "url": "/Captstone-Ghpages/static/js/main.e76a8e24.chunk.js"
   },
   {
     "revision": "098fd48e243c54466bdc",
