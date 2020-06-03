@@ -1,6 +1,6 @@
 import React from 'react';
 // import './App.css';
-import {BroswerRouter as Router, Switch, Route} from 'react-router-dom'
+import {BrowserRouter as Router, Switch, Route} from 'react-router-dom'
 import './App.scss'
 // import Search from './components/Search'
 import MyCart from './components/MyCart'
