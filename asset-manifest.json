@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/dev-augustin.github.io/static/css/main.048a49c6.chunk.css",
-    "main.js": "/dev-augustin.github.io/static/js/main.91e1d10e.chunk.js",
-    "main.js.map": "/dev-augustin.github.io/static/js/main.91e1d10e.chunk.js.map",
-    "runtime-main.js": "/dev-augustin.github.io/static/js/runtime-main.be7ec8c2.js",
-    "runtime-main.js.map": "/dev-augustin.github.io/static/js/runtime-main.be7ec8c2.js.map",
-    "static/css/2.af3c1da9.chunk.css": "/dev-augustin.github.io/static/css/2.af3c1da9.chunk.css",
-    "static/js/2.a31a58df.chunk.js": "/dev-augustin.github.io/static/js/2.a31a58df.chunk.js",
-    "static/js/2.a31a58df.chunk.js.map": "/dev-augustin.github.io/static/js/2.a31a58df.chunk.js.map",
-    "index.html": "/dev-augustin.github.io/index.html",
-    "precache-manifest.48dcf7af58507f3e57fc0fb72a56b382.js": "/dev-augustin.github.io/precache-manifest.48dcf7af58507f3e57fc0fb72a56b382.js",
-    "service-worker.js": "/dev-augustin.github.io/service-worker.js",
-    "static/css/2.af3c1da9.chunk.css.map": "/dev-augustin.github.io/static/css/2.af3c1da9.chunk.css.map",
-    "static/css/main.048a49c6.chunk.css.map": "/dev-augustin.github.io/static/css/main.048a49c6.chunk.css.map",
-    "static/js/2.a31a58df.chunk.js.LICENSE.txt": "/dev-augustin.github.io/static/js/2.a31a58df.chunk.js.LICENSE.txt",
-    "static/media/birthday-table.jpeg": "/dev-augustin.github.io/static/media/birthday-table.52d5edd1.jpeg",
-    "static/media/biscuits.jpeg": "/dev-augustin.github.io/static/media/biscuits.d4b56f62.jpeg",
-    "static/media/flowers.jpeg": "/dev-augustin.github.io/static/media/flowers.d8b99629.jpeg"
+    "main.css": "/Captstone-Ghpages/static/css/main.048a49c6.chunk.css",
+    "main.js": "/Captstone-Ghpages/static/js/main.342d9fa6.chunk.js",
+    "main.js.map": "/Captstone-Ghpages/static/js/main.342d9fa6.chunk.js.map",
+    "runtime-main.js": "/Captstone-Ghpages/static/js/runtime-main.7330dc2d.js",
+    "runtime-main.js.map": "/Captstone-Ghpages/static/js/runtime-main.7330dc2d.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/Captstone-Ghpages/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.a31a58df.chunk.js": "/Captstone-Ghpages/static/js/2.a31a58df.chunk.js",
+    "static/js/2.a31a58df.chunk.js.map": "/Captstone-Ghpages/static/js/2.a31a58df.chunk.js.map",
+    "index.html": "/Captstone-Ghpages/index.html",
+    "precache-manifest.7002968a68f9e9437c786587d746aa90.js": "/Captstone-Ghpages/precache-manifest.7002968a68f9e9437c786587d746aa90.js",
+    "service-worker.js": "/Captstone-Ghpages/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/Captstone-Ghpages/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.048a49c6.chunk.css.map": "/Captstone-Ghpages/static/css/main.048a49c6.chunk.css.map",
+    "static/js/2.a31a58df.chunk.js.LICENSE.txt": "/Captstone-Ghpages/static/js/2.a31a58df.chunk.js.LICENSE.txt",
+    "static/media/birthday-table.jpeg": "/Captstone-Ghpages/static/media/birthday-table.52d5edd1.jpeg",
+    "static/media/biscuits.jpeg": "/Captstone-Ghpages/static/media/biscuits.d4b56f62.jpeg",
+    "static/media/flowers.jpeg": "/Captstone-Ghpages/static/media/flowers.d8b99629.jpeg"
   },
   "entrypoints": [
-    "static/js/runtime-main.be7ec8c2.js",
+    "static/js/runtime-main.7330dc2d.js",
     "static/css/2.af3c1da9.chunk.css",
     "static/js/2.a31a58df.chunk.js",
     "static/css/main.048a49c6.chunk.css",
-    "static/js/main.91e1d10e.chunk.js"
+    "static/js/main.342d9fa6.chunk.js"
   ]
 }
