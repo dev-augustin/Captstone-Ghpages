@@ -26,12 +26,12 @@ function App() {
          <Switch>
             <Route exact path = '/' component={Home}></Route>
             <Route exact path = '/myCart' component={MyCart}></Route>
-            <Route exact path = '/myProfile' component={MyProfile}></Route>
+            <Route exact path = 'https://dev-augustin.github.io/Captstone-Ghpages/myProfile' component={MyProfile}></Route>
             <Route exact path = '/giftBasket/3.1' component={GitftBasket}></Route>
-            <Route exact path = '/flowers/3.2' component={Flowers}></Route>
+            <Route exact path = 'https://dev-augustin.github.io/Captstone-Ghpages/flowers/3.2' component={Flowers}></Route>
             {/* <Route exact path = '/handmade/3.1' component={Handmade}></Route> */}
             <Route exact path = '/review' component={Review}></Route>
-            <Route exact path = 'Captstone-Ghpages/contact' component={Contact}></Route>
+            <Route exact path = 'Captstone-Ghpages/#/contact' component={Contact}></Route>
             <Route exact path = '/view' component={View}></Route>
             <Route exact path = '/editorder/:id' component={EditOrder}></Route>
             <Route exact path = '/confirmation' component={Confirmation}></Route>
