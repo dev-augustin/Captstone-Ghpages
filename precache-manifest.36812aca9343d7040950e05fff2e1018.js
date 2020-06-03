@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a76e0c4166b4e20f59518b2c45dcff56",
+    "revision": "8624d3495e19b980958f44cb798fc24a",
     "url": "https://dev-augustin.github.io/Captstone-Ghpages/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://dev-augustin.github.io/Captstone-Ghpages/static/css/2.af3c1da9.chunk.css"
   },
   {
-    "revision": "ca4e223e1b1d45baf5a2",
+    "revision": "3445937083ec00209cc1",
     "url": "https://dev-augustin.github.io/Captstone-Ghpages/static/css/main.048a49c6.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://dev-augustin.github.io/Captstone-Ghpages/static/js/2.a31a58df.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ca4e223e1b1d45baf5a2",
-    "url": "https://dev-augustin.github.io/Captstone-Ghpages/static/js/main.39a81544.chunk.js"
+    "revision": "3445937083ec00209cc1",
+    "url": "https://dev-augustin.github.io/Captstone-Ghpages/static/js/main.8686af4f.chunk.js"
   },
   {
     "revision": "d496b16ad39692d40308",
