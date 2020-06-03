@@ -20,15 +20,15 @@ import ThankYou from  './components/ThankYou'
 
 function App() {
   return (
-    <Router>
+    <Router basename="/Captstone-Ghpages"> 
        <div>
          <Navigation/>
          <Switch>
             <Route exact path = '/' component={Home}></Route>
-            <Route exact path = 'Captstone-Ghpages/myCart' component={MyCart}></Route>
+            <Route exact path = '/myCart' component={MyCart}></Route>
             <Route exact path = '/myProfile' component={MyProfile}></Route>
             <Route exact path = '/giftBasket/3.1' component={GitftBasket}></Route>
-            <Route exact path = 'https://dev-augustin.github.io/Captstone-Ghpages/flowers/3.2' component={Flowers}></Route>
+            <Route exact path = '/flowers/3.2' component={Flowers}></Route>
             {/* <Route exact path = '/handmade/3.1' component={Handmade}></Route> */}
             <Route exact path = '/review' component={Review}></Route>
             <Route exact path = '/contact' component={Contact}></Route>
