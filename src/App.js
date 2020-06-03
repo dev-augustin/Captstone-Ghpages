@@ -36,7 +36,7 @@ function App() {
             <Route exact path = '/editorder/:id' component={EditOrder}></Route>
             <Route exact path = '/confirmation' component={Confirmation}></Route>
             <Route exact path = '/thankyou' component={ThankYou}></Route>
-            <Route exact path = '/partySupplies/3.3' component={PartySupplies}></Route>
+            <Route exact path = {process.env.PUBLIC_URL+'/partySupplies/3.3'} component={PartySupplies}></Route>
          </Switch>
 
        </div>
